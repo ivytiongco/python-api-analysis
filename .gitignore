@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # Custom definitions
-Weather/api_config.py
+WeatherPy/api_config.py
+WeatherPy/test_config.py
