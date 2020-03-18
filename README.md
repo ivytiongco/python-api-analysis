@@ -5,6 +5,7 @@ You'll be creating a Python script to visualize the weather of 500+ cities acros
 Analyses are included throughout the WeatherPy.ipynb file in the WeatherPy folder in this repo. CSV of all retrieved data and a PNG image for each scatter plot are also included in the same folder.
 
 # Screenshots of VacationPy Output
+VacationPy.ipynb file is in the WeatherPy folder in this repo.
 
 Heatmap
 ![](screenshots/heatmap.png)
